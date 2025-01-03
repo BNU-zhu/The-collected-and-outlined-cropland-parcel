@@ -6,8 +6,7 @@ All parcel sample files we converted to raster format, 255 for cropland
 ## Sample process
 The parcel samples and images we provided are for large scale areas<br>  
 for further processing into field boundary samples or cliping to 256*256 size<br>  
-please refer to the **sample process** steps of our another repository: [CLPs-delineation](https://github.com/BNU-zhu/CLPs-delineation)
-[aliyun drive](https://www.alipan.com/s/vggjkCV8Xpv)(code:11gk)<br>  
+please refer to the **sample process** steps of our another repository: [CLPs-delineation](https://github.com/BNU-zhu/CLPs-delineation)<br>  
 
 
 ## China Parcel data (Gaofen-1 Image)
