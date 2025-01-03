@@ -9,7 +9,7 @@ for further processing into field boundary samples or cliping to 256*256 size<br
 please refer to the **sample process** steps of our another repository: [CLPs-delineation](https://github.com/BNU-zhu/CLPs-delineation)<br>  
 
 
-## China Parcel data (Gaofen-1 Image)
+## China Parcel data
 Pingyuan, Huaitai, Bingcheng counties in China, Shandong Province<br>  
 Luhe counties in China, Guangdong Province<br>  
 All the parcels are hand outlined by us<br>  
