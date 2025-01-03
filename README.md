@@ -17,8 +17,8 @@ All the parcels are hand outlined by us<br>
 
 
 ## European Parcel data
-the Netherlands, Romania, Lithuania, Germany1, Sweden1, and Denmark <br>  
-All plots were collected from the relevant official data released in these countries<br>  
+the Netherlands, Romania, Lithuania, Germany, Sweden, and Denmark <br>  
+All parcels were collected from the relevant official data released in these countries<br>  
 We downloaded the corresponding Google images based on the data's timing<br>   
 and processed the vector samples into raster samples<br>  
 [aliyun drive](https://www.alipan.com/s/vggjkCV8Xpv)(code:11gk)<br>  
