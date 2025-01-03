@@ -16,7 +16,7 @@ All the parcels are hand outlined by us<br>
 [aliyun drive](https://www.alipan.com/s/yeAzsrmX8Zm)(code:90uz)<br>  
 
 
-## European Parcel data (Google Earth Image)
+## European Parcel data
 the Netherlands, Romania, Lithuania, Germany1, Sweden1, and Denmark <br>  
 All plots were collected from the relevant official data released in these countries<br>  
 We downloaded the corresponding Google images based on the data's timing<br>   
