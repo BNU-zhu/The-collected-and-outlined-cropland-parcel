@@ -13,6 +13,9 @@ please refer to the **sample process** steps of our another repository: [CLPs-de
 Pingyuan, Huaitai, Bingcheng counties in China, Shandong Province<br>  
 Luhe counties in China, Guangdong Province<br>  
 All the parcels are hand outlined by us<br>  
+We outlined these parcels based on the 2-meter gaofen-1 image, <br>  
+but due to security policy, we are sorry that we cannot provide the original image.<br>   
+If you want, you can download the Google image of the corresponding area.<br>  
 [aliyun drive](https://www.alipan.com/s/yeAzsrmX8Zm)(code:90uz)<br>  
 
 
